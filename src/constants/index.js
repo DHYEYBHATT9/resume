@@ -184,104 +184,100 @@ import {
   
   const projects = [
     {
-      name: "Farmer's Hut",
+      name: "Retro Snake Game",
       description:[
-            "Two Hybrid App used for online grocery of fresh produce items.",
-            "One App is used by farmer to manage inventory and handle orders",
-            "Second App is used by consumer to search items and add different items to cart then order the products from different farmers based on consumer’s location.",
-            "Uses fetch() API for CRUD operations.",
-            "Uses Node Mailer for sending e-mails.",
-            "Uses Twilio for OTPs.",
-            "Uses mongo DB for storage."
+            "Developed a classic Snake Game in C programming language.",
+            "Implemented real-time gameplay mechanics, including snake movement and food generation.",
+            "Added features like collision detection and score tracking.",
+            "Optimized game loop for smooth performance in console environments.",
+            "Demonstrated skills in structured programming and logical problem-solving."
 
       ],
       tags: [
         {
-          name: "react-native",
+          name: "C",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "Game Development",
           color: "green-text-gradient",
-        },
-        {
-          name: "native style",
-          color: "pink-text-gradient",
         },
       ],
       image: farmer,
-      source_code_link: "https://github.com/Dilpreet1996/Farmer-sHut",
+      source_code_link: "https://github.com/DHYEYBHATT9/Retro-Snake-Game.git",
     },
     {
-      name: "Telecom Management System",
+      name: "Library Database Management System",
       description:[
-      "Two Android app, one is used for managing the administration work and second one is for customers.",
-      "Defined Role management for employees.",
-      "Implemented with Telecom management system API to fetch the data from the database."
-
+      "Developed a relational database schema to model the library's structure, including tables for books, users, transactions, and administrative functions by implementing SQL queries for data manipulation, retrieval, and management, ensuring optimal performance and data integrity.", 
+      "Skills: SQL (Structured Query Language), Database Management System (DBMS).",
   ],
       tags: [
         {
-          name: "java",
+          name: "SQL",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "Database management",
           color: "green-text-gradient",
-        },
-        {
-          name: "XML",
-          color: "pink-text-gradient",
         },
       ],
       image: telecom,
-      source_code_link: "https://github.com/Dilpreet1996/bsnlAppForPortofolio",
+      source_code_link: "https://github.com/DHYEYBHATT9/Library-management-system.git",
     },
     {
-      name: "Chat App",
+      name: "Phone Orientation Generator",
       description:[
-         "Using socket.io to create real-time messaging and notification system",
-         "Managing state using context API",
-         "Code reuse (Custom hooks and util functions)",
-         "Auth in react, node and JWT",
-         "Creating and Consuming APIs"
+	      "Designed a phone orientation prediction system using k-Nearest Neighbors (kNN) and Neural Network (NN) classifiers in C++.",
+              "Processed orientation data from phone sensors such as accelerometers and gyroscopes.",
+              "Implemented kNN algorithm for classification by calculating distances between sensor data points and labeled training examples.",
+              "Developed a Neural Network classifier with configurable layers and activation functions for improved accuracy.",
+              "Used feature extraction techniques to prepare sensor data for efficient processing.",
+              "Optimized the system for real-time predictions with low computational latency.",
+              "Validated performance through accuracy testing on labeled datasets.",
+              "Demonstrated proficiency in machine learning concepts and C++ programming."
         ],
       tags: [
         {
-          name: "three.js",
+          name: "Machine Learning",
           color: "blue-text-gradient",
         },
         {
-          name: "react",
+          name: "C++",
           color: "green-text-gradient",
         },
         {
-          name: "socket",
+          name: "Sensor Programming",
           color: "pink-text-gradient",
         },
       ],
       image: chatapp,
-      source_code_link: "https://github.com/Dilpreet1996/chatapp",
+      source_code_link: "https://github.com/DHYEYBHATT9/Phone-orientation-Generator.git",
     },
     {
-      name: "Mind Map Game",
+      name: "Resume-E-portfolio",
       description:[
-            "Using props for State management",
-            "Simple and easy to guess number"
+	      "Developed a dynamic e-portfolio using JavaScript for functionality and JSON for data storage.",
+             "Created a modular, interactive design to showcase personal projects, skills, and achievements.",
+             "Utilized JSON to store and dynamically render portfolio content such as project descriptions, skills, and contact details.",
+             "Implemented responsive web design for seamless viewing across devices.",
+             "Added features like navigation, filtering by skills/projects, and contact form integration.",
+             "Ensured scalability by making the system easily extensible for new sections or updates.",
+             "Demonstrated expertise in front-end development and structured data handling."
 
       ],
       tags: [
         {
-          name: "react-native",
+          name: "Web-Development",
           color: "blue-text-gradient",
         },
         {
-          name: "native style",
+          name: "Javascript",
           color: "pink-text-gradient",
         },
       ],
       image: game,
-      source_code_link: "https://github.com/Dilpreet1996/Game",
+      source_code_link: "https://github.com/DHYEYBHATT9/resume.git",
     },
   ];
   
