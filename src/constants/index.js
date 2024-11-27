@@ -111,6 +111,22 @@ import {
   ];
   
   const experiences = [
+
+       {
+      title : "IT infrastructure Engineer",
+      company_name: "Septodont Novocol Pharma",
+      icon: VT,
+      date : "May 2024- August 2024",
+      points: [
+        "Acts as a primary point of contact for technical inquiries from customers.",
+        "Managed and maintained server infrastructure, including Windows and Linux servers, and implemented virtualization solutions using VMware and Hyper-V.",
+	    "Configured and managed network services (DNS, DHCP, VPN) and ensured network security through firewalls and IDS/IPS systems.",
+	    "Automated tasks using PowerShell and Bash, and managed cloud-based infrastructure on AWS/Azure.",
+        "Ensured data integrity and availability through proper backup and disaster recovery plans using VEEAM.",
+        "Reduced server downtime through proactive monitoring, successfully migrated servers to a virtualized environment saving company’s costs"
+
+      ]
+    },
     {
       title : "Technical Sales Support",
       company_name: "Network Telecom",
@@ -123,11 +139,11 @@ import {
       ]
     },
     {
-      title: "Technical Support Specialist Power-cell Infotech   ",
-      company_name: "Power-cell Infotech",
-      icon: walmart,
+      title: "Technical Support Specialist Smart-Computers   ",
+      company_name: "Smart Computers",
+      icon: VT,
       iconBg: "#E6DEDD",
-      date: "March 2022 - Present",
+      date: "Aug 2020 - Jan 2021 ",
       points: [
        "Provide technical support to customers via phone, email and chat, assisting with hardware and software issues related to desktops, laptops, printers, and mobile devices",
        "Collaborate with cross-functional teams to troubleshoot and resolve complex technical issues, ensuring customer satisfaction while dealing in ADM app.",
