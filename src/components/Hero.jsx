@@ -19,8 +19,8 @@ const Hero = () => {
             Hi, I'm <span className='text-[#915EFF]'>Dhyey</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-           Second-year Computer Science student at Conestoga College <br className='sm:block hidden' />
-            I possess a solid foundation in C, C++, C#, and Python as well as networking
+            Cybersecurity Analyst & SOC Engineer at Arctic Wolf <br className='sm:block hidden' />
+            Specializing in threat detection, incident response, and AI-driven security
           </p>
         </div>
       </div>
@@ -29,7 +29,7 @@ const Hero = () => {
 
       <div className='absolute xs:bottom-4 bottom-4 w-full flex justify-center items-center'>
         <a href='#about'>
-          <div className='w-[35px] h-[64px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2;'>
+          <div className='w-[35px] h-[64px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2'>
             <motion.div
               animate={{
                 y: [0, 24, 0],
